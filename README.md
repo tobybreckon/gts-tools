@@ -10,9 +10,9 @@ License : GPL
 ## Installation
 
 Requirements:
-- [GTS 0.7.x](http://gts.sourceforge.net/) (or greater)
+- GNU Triangulated Surfaces Library [GTS 0.7.x](http://gts.sourceforge.net/) (or greater)
 - gts-config and glib-config required to be in path.
-- tested on GNU/Linux.
+- tested on GNU/Linux (upto gcc version 4.8.3)
 
 #### Installation instructions
 
