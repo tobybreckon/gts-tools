@@ -15,7 +15,7 @@ CURRENTPWD=$(PWD)
 #####################################################################
 
 all:
-	cd src; make
+	mkdir tools; cd src; make
 
 install:
 	install tools/gts* $(INSTALL_PATH_BIN);
@@ -25,6 +25,7 @@ install:
 clean:
 	rm -f *~; \
 	cd tools && rm -f *; cd ..; \
+	rmdir tools; \
 	cd src; make clean \
 
 #####################################################################
