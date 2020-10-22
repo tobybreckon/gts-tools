@@ -63,7 +63,7 @@ compression extensions.
 
 Used as supporting tools for surface manipulation to generate the following research work (please reference if used in your own work):
 
-[A Hierarchical Extension to 3D Non-parametric Surface Relief Completion](http://community.dur.ac.uk/toby.breckon/publications/papers/breckon12completion.pdf) (T.P. Breckon, R.B. Fisher), In Pattern Recognition, Elsevier, Volume 45, pp. 172-185, 2012. [[pdf](http://community.dur.ac.uk/toby.breckon/publications/papers/breckon12completion.pdf)] [[doi](http://dx.doi.org/10.1016/j.patcog.2011.04.021)]
+[A Hierarchical Extension to 3D Non-parametric Surface Relief Completion](https://breckon.org/toby/publications/papers/breckon12completion.pdf) (T.P. Breckon, R.B. Fisher), In Pattern Recognition, Elsevier, Volume 45, pp. 172-185, 2012. [[pdf](https://breckon.org/toby/publications/papers/breckon12completion.pdf)] [[doi](http://dx.doi.org/10.1016/j.patcog.2011.04.021)]
 ```
 @Article{breckon12completion,
   author = 	 {Breckon, T.P. and Fisher, R.B.},
@@ -77,7 +77,7 @@ Used as supporting tools for surface manipulation to generate the following rese
   doi = 	 {10.1016/j.patcog.2011.04.021},
 }
 ```
-[3D Surface Relief Completion Via Non-parametric Techniques](http://community.dur.ac.uk/toby.breckon/publications/papers/breckon08completion.pdf) (T.P. Breckon, R.B. Fisher), In IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE, Volume 30, No. 12, pp. 2249 - 2255, 2008. [[pdf](http://community.dur.ac.uk/toby.breckon/publications/papers/breckon08completion.pdf)] [[doi](http://dx.doi.org/10.1109/TPAMI.2008.153)]
+[3D Surface Relief Completion Via Non-parametric Techniques](https://breckon.org/toby/publications/papers/breckon08completion.pdf) (T.P. Breckon, R.B. Fisher), In IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE, Volume 30, No. 12, pp. 2249 - 2255, 2008. [[pdf](https://breckon.org/toby/publications/papers/breckon08completion.pdf)] [[doi](http://dx.doi.org/10.1109/TPAMI.2008.153)]
 ```
 @Article{breckon08completion,
   author = 	 {Breckon, T.P. and Fisher, R.B.},
